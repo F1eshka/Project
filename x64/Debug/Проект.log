@@ -1,0 +1,9 @@
+﻿  Проект.cpp
+C:\Users\Rog\source\repos\Проект\Проект.cpp(24,21): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\Rog\source\repos\Проект\Проект.cpp(24,23): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\Rog\source\repos\Проект\Проект.cpp(212,9): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Rog\source\repos\Проект\Проект.cpp(257,23): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Rog\source\repos\Проект\Проект.cpp(262,19): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Rog\source\repos\Проект\Проект.cpp(319,19): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Rog\source\repos\Проект\Проект.cpp(386,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Проект.vcxproj -> C:\Users\Rog\source\repos\Проект\x64\Debug\Проект.exe
